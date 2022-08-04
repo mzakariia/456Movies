@@ -33,7 +33,7 @@ Acceptance criteria: Popular movies from TMDB are retrieved and displayed clearl
 Story: As a I user, I should be able to view the details of the movie to learn more about it and see if it interests me.
 Acceptance criteria: Upon clicking on any of the movies in the search results or popular movies pages, I am taken to page that displays to me the movie's details.
 
-#BONUS:
+# BONUS:
 
 ## Story 4:
 
