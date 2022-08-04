@@ -1,0 +1,31 @@
+.searchBar {
+  font-size: 1.5rem;
+  border-radius: 0.5rem;
+  padding: 1rem 3rem;
+  width: 50rem;
+  margin: 3rem 0rem;
+  border: solid;
+  border-width: 0.2rem;
+}
+
+.searchBar:focus {
+  border: solid;
+  border-color: deepskyblue;
+  outline: none;
+  border-width: 0.2rem;
+}
+
+.searchButton {
+  color: white;
+  background-color: deepskyblue;
+  font-size: 1.5rem;
+  border-radius: 0.5rem;
+  padding: 1rem 3rem;
+  margin-left: 0.5rem;
+  border-width: 0.2rem;
+}
+
+.searchButton:hover {
+  color: deepskyblue;
+  background-color: white;
+}
